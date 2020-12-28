@@ -10,5 +10,5 @@ public class test {
     private String name;
     private int age;//
     private String sex;
-    private int height;//
+    private int height1;//
 }
