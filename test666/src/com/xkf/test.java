@@ -11,4 +11,5 @@ public class test {
     private int age;//
     private String sex;
     private int height;//
+    private int weight;//
 }
